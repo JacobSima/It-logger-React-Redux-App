@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "fix cmputer",
+      "tech": "Sarah Wilson",
+      "attention": true,
+      "date": "2020-02-27T17:41:09.053Z",
+      "id": 4
+    },
+    {
+      "message": "upgrade system o",
+      "tech": "John Doe",
+      "attention": false,
+      "date": "2020-02-27T17:41:21.346Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "na",
+      "lastName": "bnma",
+      "id": 8
+    }
+  ]
+}
